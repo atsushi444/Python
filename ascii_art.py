@@ -1,4 +1,3 @@
-# 直接将需要处理的图片拖入文件
 from PIL import Image, ImageDraw, ImageFont
 import argparse
 import numpy as np
